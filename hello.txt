@@ -1,2 +1,3 @@
 hello Git
 learning second change
+now i learn how to edit branches and i did it 😀.
