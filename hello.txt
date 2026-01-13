@@ -2,4 +2,12 @@ hello Git
 learning second change
 now i learn how to edit branches and i did it 😀.
 and now i compleat 60% git 
-yup its nice github '--
+yup and i am enjoying
+hello master
+a best line by demo classs.
+<<<<<<< HEAD
+its master -- 
+=======
+its demo --
+
+>>>>>>> ad0d107 (demo change)
